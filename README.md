@@ -5,7 +5,7 @@ Experiment using [Module Federation](https://webpack.js.org/concepts/module-fede
 
 # Build & Run
 
-In seperate terminal sessions...
+In separate terminal sessions...
 
 ```sh
 cd microfrontend-a && yarn && yarn start
